@@ -146,7 +146,7 @@ header {
     top: 0;
     width: 100%;
     z-index: 100000;
-    background-color: #000000;
+    background-color: #0f0b00;
     -webkit-transition:all 0.3s linear;
     -moz-transition:all 0.3s linear;
     -ms-transition:all 0.3s linear;
@@ -169,7 +169,6 @@ nav li {
 nav li a {
     color: #fff;
     float: left;
-    font-family: 'Galdeano',sans-serif;
     margin: 0 4px;
     padding: 50px 20px 30px;
     position: relative;
@@ -281,7 +280,7 @@ nav > ul > li > ul > li:hover  ul > li{
     top: 0;
     width: 270px;
     z-index: 100000;
-    background-color: black;
+    background-color: #161100;
     -webkit-border-radius: 0 0 3px 0;
     -moz-border-radius: 0 0 3px 0;
     -ms-border-radius: 0 0 3px 0;
@@ -293,14 +292,14 @@ nav > ul > li > ul > li:hover  ul > li{
     margin: 0 auto;
     padding: 20px 0 40px;
     text-align: center;
-    background-color: black;
+    background-color: #161100;
 }
 .responsive-logo a {
     color: black;
     float: left;
     text-align: center;
     width: 100%;
-    background-color: black;
+    background-color: #161100;
 }
 .responsive-logo a img {
     height: auto;
