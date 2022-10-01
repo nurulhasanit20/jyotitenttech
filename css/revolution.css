@@ -43,7 +43,7 @@
 	text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
 	font-weight:700;
 	font-size:14px;
-	line-height:20px;
+	line-height:15px;
 	font-family:Arial;
 	margin:0px;
 	border-width:0px;
@@ -57,7 +57,7 @@
 	text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
 	font-weight:700;
 	font-size:20px;
-	line-height:20px;
+	line-height:15px;
 	font-family:Arial;
 	margin:0px;
 	border-width:0px;
@@ -68,7 +68,7 @@
 
 .tp-caption.large_bold_white_25 {
 	font-size:55px;
-	line-height:65px;
+	line-height:60px;
 	font-weight:700;
 	font-family:"Open Sans";
 	color:#fff;
@@ -83,7 +83,7 @@
 
 .tp-caption.medium_text_shadow {
 	font-size:25px;
-	line-height:25px;
+	line-height:20px;
 	font-weight:600;
 	font-family:"Open Sans";
 	color:#fff;
@@ -179,7 +179,7 @@
 	text-shadow:none;
 	font-weight:800;
 	font-size:24px;
-	line-height:20px;
+	line-height:15px;
 	font-family:"Open Sans", sans-serif;
 	margin:0px;
 	border-width:0px;
