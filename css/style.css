@@ -242,6 +242,11 @@ nav li a span i {
     color: #fff;
     font-size: 16px;
     margin: 0;
+
+    -webkit-transition:all 0.3s linear;
+    -moz-transition:all 0.3s linear;
+    -ms-transition:all 0.3s linear;
+    -o-transition:all 0.3s linear;
     transition:all 0.3s linear;
 }
 nav li ul {
@@ -421,16 +426,20 @@ nav > ul > li > ul > li:hover  ul > li{
 .box-rotated{
     background: rgba(0,0,0,0.9);
 
+    -webkit-transform:  rotate(45deg)!important;
+    -moz-transform:  rotate(45deg)!important;
+    -ms-transform:  rotate(45deg)!important;
+    -o-transform:  rotate(45deg)!important;
     transform:  rotate(45deg)!important;
 
     -webkit-border-radius: 25px;
     -moz-border-radius: 25px;
     -ms-border-radius: 25px;
     -o-border-radius: 25px;
-    border-radius: 50px;
+    border-radius: 25px;
 }
 .white-text{
-    color: #543FFF;
+    color: #FFF;
     font-style: italic;
     font-family: arimo;
     text-transform: capitalize;
@@ -539,7 +548,7 @@ nav > ul > li > ul > li:hover  ul > li{
 }
 .text-slide {
     float: left;
-    padding-top: 50px;
+    padding-top: 100px;
     position: relative;
     text-align: center;
     width: 100%;
@@ -602,7 +611,7 @@ nav > ul > li > ul > li:hover  ul > li{
     padding: 0 40px;
     width: 100%;
 }
-
+/* =============== Kenburns Effect ===================== */
 .kenburns-effect {
     float: left;
     width: 100%;
