@@ -869,7 +869,7 @@ canvas {
     width: 14px;
 }
 
-/* =============== Event Speakers ===================== */
+
 .title {
     background: url("../photo/title-design.png") no-repeat scroll center top rgba(0, 0, 0, 0);
     display: table;
@@ -1285,8 +1285,8 @@ canvas {
     color: #626262;
     font-family: "arimo";
     font-size: 13px;
-    line-height: 20px;
-    margin-bottom: 20px;
+    line-height: 30px;
+    margin-bottom: 30px;
 }
 .event-detail > span img {
     margin-right: 10px;
@@ -1429,7 +1429,6 @@ canvas {
     margin-top: 20px;
     width: 100%;
 }
-/* =============== Gallery ===================== */
 .snap-detail {
     background: none repeat scroll 0 0 #fff;
     bottom: 0;
