@@ -49,7 +49,7 @@ header{display: none!important;}
 .schedule-tabs .nav li {float: left;width: 50%;}
 .schedule-tabs .nav li.active a,.schedule-tabs .nav li.active a:hover {margin-top: 0; padding: 25px 20px;}
 .schedule-tabs .tab-content .nav li {width: 100%;float: left;}
-.gallery_kenburns {height: 560px;}
+.gallery_kenburns {height: 550px;}
 .kenburns-text {margin: 0;width: 100%;}
 .text-slide{padding-top: 0;}
 .text-carousel {margin-left: 0;width: 100% !important;}
