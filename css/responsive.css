@@ -110,6 +110,8 @@ footer .title {background: none;}
 .reverse .event-detail{margin:0;}
 .parallax-form .row > div {float: left;width: 100%;}
 }
+.aboutPara {padding: 15px}
+.btn-know-more {margin-left: 15px}
 
 
 @media (max-width:480px){
